@@ -33,8 +33,14 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/pagman1006">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pagman1006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pagman1006&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **pagman1006/pagman1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
